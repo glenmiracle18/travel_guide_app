@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Travel Rwanda - Home</title>
+</head>
+<body>
+	<h1>Welcome, {{ username }} to Travel Rwanda</h1>
+
+    <h2>Featured Destinations</h2>
+    <ul>
+        {% for destination in featured_destinations %}
+            <li>{{ destination }}</li>
+        {% endfor %}
+    </ul>
+    
+    <h2>Recently Viewed</h2>
+    <ul>
+        {% for destination in recently_viewed %}
+            <li>{{ destination }}</li>
+        {% endfor %}
+    </ul>
+</body>
+</html>
+
