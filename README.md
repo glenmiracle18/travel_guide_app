@@ -5,3 +5,4 @@ to make it a success
 
 This Project has to do with Tourism.
 It is a travel guide app that will be helping tourists to choose destinations.
+Tourists will be guided and they will be able to have great experiences.
