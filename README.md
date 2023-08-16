@@ -12,3 +12,5 @@ Travel Rwanda" Tour Guide App encompasses a range of features that facilitate us
 The "Travel Rwanda" Tour Guide App was developed with specific goals in mind to enhance the travel experience for users exploring Rwanda.  
 
 this project will serve as pricce incerase solution as we list some daily needs and their prices.
+
+also we believe weatherforecast would help tourists to know places better and come ready
