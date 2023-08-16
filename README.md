@@ -14,3 +14,5 @@ The "Travel Rwanda" Tour Guide App was developed with specific goals in mind to 
 this project will serve as pricce incerase solution as we list some daily needs and their prices.
 
 also we believe weatherforecast would help tourists to know places better and come ready
+
+we hope this app to be a solution in tourism activities in many ways.
