@@ -18,3 +18,5 @@ also we believe weatherforecast would helppeople plan their trips better.
 Travel rwanda is suitable for persons travelling for different reasons ranging from vacations to business trips.
 
 We hope this app is a solution to the travel needsof those visiting rwanda.
+
+We beleive that our growth is not static we aim to grow and learn from the market and expand to new desinations in the future.
